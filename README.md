@@ -1,4 +1,5 @@
-# A GitHub Repo for Sem 5 Notes
+# ⚠️ Disclaimer :
+This repository consists solely of notes and e-books provided by the college. While some of these materials may have been collected from the internet, it is important to note that no assignments will be found here.
 
 | No. | Subject |
 | --- | --- |
