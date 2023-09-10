@@ -1,5 +1,14 @@
 # Term 1 - Syllabus
 
+- [Database Management System](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#database-management-system-)
+- [Principles of Management](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#principles-of-management-)
+- [Software Engineering](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#software-engineering-)
+- [Image Processing](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#software-engineering-)
+- [Formal Language & Automata Theory](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#formal-language--automata-theory-)
+- [Signals & Systems](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#signals--systems-)
+- [ESP](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#esp-)
+- [Constitution of India](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201#constitution-of-india-)
+
 ## Database Management System :
 
 ### Module 1
