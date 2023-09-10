@@ -125,10 +125,10 @@ Spatial Domain Method, Frequency Domain Method, Contrast Enhancement -Linear & N
 
 ## ESP :
 
-### syllabus based on GATE syllabus
+### Syllabus based on GATE syllabus
 
 ---
 
 ## Constitution of India :
 
-### The syllabus is based on the notes provided in Google Classroom. You can access the notes from here
+### The syllabus is based on the notes provided in Google Classroom. You can access the notes from [here](https://github.com/therandomuser03/sem5-notes/tree/main/Notes/Constitution%20of%20India)
