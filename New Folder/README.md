@@ -35,6 +35,8 @@ Functional Dependency, Different anomalies in designing a Database., Normalizati
 
 ## Principles of Management :
 
+![](image.png)
+
 ---
 
 ## Software Engineering :
