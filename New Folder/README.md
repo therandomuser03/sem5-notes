@@ -35,6 +35,7 @@ Functional Dependency, Different anomalies in designing a Database., Normalizati
 
 ## Principles of Management :
 
+Nobody knows exactly about the syllabus. Anyways, you can follow this 👇🏻
 ![](image.png)
 
 ---
