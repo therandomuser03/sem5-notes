@@ -13,4 +13,5 @@ This repository consists solely of notes and e-books provided by the college. Wh
 
 <br>
 
-For Term 1 Syllabus, [click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
+### For Term 1 Syllabus :
+[click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
