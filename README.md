@@ -10,3 +10,6 @@ This repository consists solely of notes and e-books provided by the college. Wh
 | 5 | [Principles of Management](https://github.com/therandomuser03/sem5-notes/tree/main/Notes/Principles%20of%20Management/previous%20year%20notes) |
 | 6 | [Signals & Systems](https://github.com/therandomuser03/sem5-notes/tree/main/Notes/Signals%20%26%20Systems) |
 | 7 | [Software Engineering](https://github.com/therandomuser03/sem5-notes/tree/main/Notes/Software%20Engineering ) |
+
+
+For Term 1 Syllabus, [click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
