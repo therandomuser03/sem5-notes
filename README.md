@@ -12,10 +12,10 @@ This repository consists solely of notes and e-books provided by the college. Wh
 | 7 | [Software Engineering](https://github.com/therandomuser03/sem5-notes/tree/main/Notes/Software%20Engineering ) |
 
 
-### Syllabus for 5th Semester : [Click Here](https://github.com/therandomuser03/sem5-notes/blob/main/Syllabus%20-%205th%20Sem%20CSE%20%26%20CSE(AIML)%20%5B2021%20-%202025%5D.pdf)
+## Syllabus for 5th Semester : [Click Here](https://github.com/therandomuser03/sem5-notes/blob/main/Syllabus%20-%205th%20Sem%20CSE%20%26%20CSE(AIML)%20%5B2021%20-%202025%5D.pdf)
 
 
-### For YouTube Channels : [Click Here]()
+## For YouTube Channels : [Click Here]()
 
 
-#### For Term 1 Syllabus : [click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
+### For Term 1 Syllabus : [click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
