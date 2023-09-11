@@ -16,7 +16,7 @@ This repository consists solely of notes and e-books provided by the college. Wh
 ## Syllabus for 5th Semester : [Click Here](https://github.com/therandomuser03/sem5-notes/blob/main/Syllabus%20-%205th%20Sem%20CSE%20%26%20CSE(AIML)%20%5B2021%20-%202025%5D.pdf)
 
 
-## For YouTube Channels : [Click Here](https://github.com/therandomuser03/sem5-notes/blob/main/Notes/5th%20Semester%20-%20YouTube%20Links.pdf)
+## For YouTube Channels : [Click Here](https://github.com/therandomuser03/sem5-notes/blob/main/Notes/5th%20Semester%20-%20YouTube%20Links.html)
 
 
 ### For Term 1 Syllabus : [click here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201)
