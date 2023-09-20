@@ -22,4 +22,4 @@ This repository consists solely of notes and e-books provided by the college. Wh
 <!-- ### For Term 1 Syllabus : [Click Here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201) -->
 
 
-## For Routine : [Click Here](https://drive.google.com/file/d/1LjXdM0WXCqs2aAYOEbKilQ-G75FQyyAA/view?usp=sharing)
+### For Routine : [Click Here](https://drive.google.com/file/d/1LjXdM0WXCqs2aAYOEbKilQ-G75FQyyAA/view?usp=sharing)
