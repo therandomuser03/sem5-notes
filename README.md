@@ -19,6 +19,9 @@ This repository consists solely of notes and e-books provided by the college. Wh
 ## For YouTube Channels : [Click Here](https://drive.google.com/file/d/1iDgFEiimYmM_4wbUUPpRED1WLh5w4nA5/view?usp=sharing)
 
 
+## For Google Drive : [Click Here](https://drive.google.com/drive/folders/1XjQCjO2aKONXBJ-1oBIU1DbAla51hJrP?usp=sharing)
+
+
 <!-- ### For Term 1 Syllabus : [Click Here](https://github.com/therandomuser03/sem5-notes/tree/main/Term%201) -->
 
 
