@@ -16,7 +16,7 @@ This repository consists solely of notes and e-books provided by the college. Wh
 ## Syllabus for 5th Semester : [Click Here](https://drive.google.com/file/d/11FvqsjpIG2sDtwVDdVhqId8CMvw7mCzS/view?usp=sharing)
 
 
-## For YouTube Channels : [Click Here](https://drive.google.com/file/d/1iDgFEiimYmM_4wbUUPpRED1WLh5w4nA5/view?usp=sharing)
+## For YouTube Channels : [Click Here](https://drive.google.com/file/d/1jCkZ4nmIXU-Co2KT0NdqthhhkH1LF29I/view?usp=sharing)
 
 
 ## For Google Drive : [Click Here](https://drive.google.com/drive/folders/1XjQCjO2aKONXBJ-1oBIU1DbAla51hJrP?usp=sharing)
